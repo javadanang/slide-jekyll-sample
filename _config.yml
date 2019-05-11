@@ -1,0 +1,11 @@
+# Your presentation title
+title: Slide Acegik Sample
+baseurl: /slide-acegik-sample
+
+# Don't change anything below
+markdown: redcarpet
+highlighter: pygments
+markdown_ext: ignoreme
+theme: jekyll-theme-slides
+
+exclude: ["README.md", "diagrams", "resources", "*.gliffy", "*.tgn", "*.xcf", "lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "Thumbs.db", "Thumbs.db:encryptable"]
